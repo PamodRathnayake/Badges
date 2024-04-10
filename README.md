@@ -17,7 +17,13 @@
 
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)    ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=Android%20Studio&logoColor=green&labelColor=black)    ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
+---
+
+![Static Badge](https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=Android%20Studio&logoColor=green&labelColor=black)    
+
+---
+
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/ORACLE-%23F80000?style=flat-square&logo=oracle&logoColor=white)
 
