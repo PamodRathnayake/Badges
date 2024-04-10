@@ -27,6 +27,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)    ![Static Badge](https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=black)
 
+![Static Badge](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=flat-square&logo=adobexd&logoColor=black)
 
 
 
